@@ -28,8 +28,7 @@
     "build:lib:prod": "ng build angular-google-tag-manager --configuration=production",
     "test:lib": "ng test angular-google-tag-manager",
     "lint:lib": "ng lint angular-google-tag-manager",
-    "version": "ng version",
-    "prepare":"npm run build"
+    "version": "ng version"
   },
   "private": true,
   "dependencies": {
